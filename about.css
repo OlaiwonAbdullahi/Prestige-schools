@@ -9,7 +9,7 @@
 }
 .navbar-brand{
     color: crimson;
-font-family: "Teko", sans-serif;
+font-family: "Exo", sans-serif;
     
 
 }
@@ -27,6 +27,9 @@ font-family: "Teko", sans-serif;
 }
 .navbar-toggler{
     color: crimson;
+}
+body{
+    font-family: "Roboto",sans-serif;
 }
 /*.btn{
     height: 40px;
