@@ -1,0 +1,38 @@
+.logo-1{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.container-fluid{
+    height: 50px;
+
+}
+.navbar-brand{
+    color: crimson;
+font-family: "Teko", sans-serif;
+    
+
+}
+.navbar-brand:hover{
+    color: crimson;
+}
+.bg-body-tertiary {/* background-color: white !important; */
+     border: 0px 0px 2px 0px;
+    color: crimson !important;}
+ .nav-link{
+    color: crimson;
+}
+.active{
+    color: crimson;
+}
+.navbar-toggler{
+    color: crimson;
+}
+/*.btn{
+    height: 40px;
+    width: 120px;
+}
+button {
+    color: white !important;
+    border: none;
+}*/
